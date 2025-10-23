@@ -8,4 +8,4 @@ nuh UHHHHHHHHHHHHHHHHH
 
 dont talk back 2 me binch
 
-TIPS ARE GREATLY APPRECIATED <3
+
