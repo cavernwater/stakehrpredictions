@@ -12,3 +12,5 @@ updated com folders with /archive:
 template file in /template
 updated for week of oct 26
 10/26 9:55 UTC - ruby
+
+fixed fuck up, revert commit oopsies. updated for end of oct
